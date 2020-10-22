@@ -1,0 +1,14 @@
+{
+    "name": "nayal/composer-quest",
+    "description": "Projet quete composer",
+    "authors": [
+        {
+            "name": "nayalNanou",
+            "email": "nayal.christophcolomb@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"App\\Wcs\\": "src/Wcs"}
+    }
+}
